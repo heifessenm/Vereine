@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Formular2Spg": {
+      "commandName": "Project",
+      "commandLineArgs": "mitglied-werden-start-3-2024-11-02.json output.xml"
+    }
+  }
+}
